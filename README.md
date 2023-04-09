@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnpdhd)](https://solved.ac/dnpdhd/) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inpink&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inpink&layout=compact&bg_color=30,f7bebe,e89797,f2c9c9&title_color=ffffff&text_color=f7f6dc&icon_color=246e69)
+
+&theme=radical)
 
