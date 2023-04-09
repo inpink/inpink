@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnpdhd)](https://solved.ac/dnpdhd/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inpink&layout=compact&theme=tokyonight)
