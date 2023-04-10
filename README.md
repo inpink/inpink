@@ -1,4 +1,4 @@
-### With Sincerity, passion and perseverance, you can achieve whatever you want to. 
+### With sincerity, passion and perseverance, you can achieve whatever you want to. 
 <!--
 **inpink/inpink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
