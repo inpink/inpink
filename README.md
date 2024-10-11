@@ -38,3 +38,4 @@
 ##### 3. Hanium Project (2022.02 - 2022.11)
 ##### 4. [Inpink’s Development Blog](https://blog.naver.com/inpink_) (2021.07 - Ongoing)
 ##### 5. Korea Student Aid Foundation Programming Mentoring (2020.03 - 2021.08)
+##### 6. Bachelor's Degree in Software Engineering, Minor in Data Science, Kangnam University (2019.03 - 2024.02)
