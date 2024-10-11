@@ -1,12 +1,19 @@
 
-# inpink
 
 
-### With sincerity, passion and perseverance, you can achieve whatever you want to. 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnpdhd)](https://solved.ac/dnpdhd/) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inpink&layout=compact&bg_color=30,f7bebe,e89797,f2c9c9&title_color=ffffff&text_color=f7f6dc&icon_color=246e66) <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finpink%2Fhit-counter&count_bg=%237ACDD9&title_bg=%23E3CCE0&icon=tencentweibo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=transparent&height=70&color=black&text=inpink&textBg=false&section=header)
+
+### With sincerity, passion and perseverance, you can achieve whatever you want to.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnpdhd)](https://solved.ac/dnpdhd/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inpink&layout=compact&bg_color=30,f7bebe,e89797,f2c9c9&title_color=ffffff&text_color=f7f6dc&icon_color=246e66)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finpink%2Fhit-counter&count_bg=%237ACDD9&title_bg=%23E3CCE0&icon=tencentweibo.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 <br>
+
 
 
 ## Open Source Contributions
