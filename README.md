@@ -26,7 +26,7 @@
 - **[#1330](https://github.com/spring-projects/spring-ai/pull/1330)**: Added and updated documentation.
 
 ### 2. OpenSearch
-- **[#16201](https://github.com/opensearch-project/OpenSearch/pull/16201)**: Fixed crash when disabling Auto Follow due to a missing field for task cancellation, and tested with Docker.
+- **[#16201](https://github.com/opensearch-project/OpenSearch/pull/16201)**: Fixed crash when disabling Auto Follow due to missing fields for task cancellation, including testing with Docker.
 - **[#8390](https://github.com/opensearch-project/documentation-website/pull/8390)**: Updated documentation.
 
 <br>
