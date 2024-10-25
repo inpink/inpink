@@ -22,7 +22,7 @@
 
 ### 1. OpenSearch <a href="https://github.com/opensearch-project/OpenSearch"><img src="https://github.com/user-attachments/assets/6f933b3b-f189-4d9f-b291-027a66b007e5" alt="OpenSearch" width="18" height="18"> 
 - **[#16201](https://github.com/opensearch-project/OpenSearch/pull/16201)**: Fixed crash when disabling Auto Follow due to missing fields for task cancellation, including testing with Docker.
-- **[#16434](https://github.com/opensearch-project/OpenSearch/pull/16434)**: Fixed a flaky test failure caused by Lucene’s total hits handling by adjusting checks based on whether the total hits count is exact or a lower bound.
+- **[#16434](https://github.com/opensearch-project/OpenSearch/pull/16434)**: Fixed an issue causing CI failures related to Lucene’s total hits handling. Adjusted checks to account for whether the total hits count is exact or a lower bound.
 - **[#8390](https://github.com/opensearch-project/documentation-website/pull/8390)**: Updated documentation.
 
 ### 2. Spring AI <a href="https://github.com/spring-projects/spring-ai"><img src="https://github.com/user-attachments/assets/57af4ca8-3fe9-4edb-a9c3-a39ec4cb2529" alt="Spring AI" width="18" height="18">
