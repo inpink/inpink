@@ -35,7 +35,7 @@
 ## Activities
 
 ##### 1. SW Maestro 15th (2024.04 - Ongoing)
-##### 2. Undergraduate Researcher (AR, AI) (2023.03 - 2024.02; 2021.02 - 2021.08)
+##### 2. Undergraduate Researcher (AI, AR) (2023.03 - 2024.02; 2021.02 - 2021.08)
 ##### 3. Hanium Project (2022.02 - 2022.11)
 ##### 4. Find-Coding Private Educational Institute Instructor (2021.09 - 2023.02)
 ##### 5. [Inpink’s Development Blog](https://blog.naver.com/inpink_) (2021.07 - Ongoing)
