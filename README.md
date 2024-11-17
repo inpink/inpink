@@ -22,7 +22,7 @@
 
 ### 1. OpenSearch <a href="https://github.com/opensearch-project/OpenSearch"><img src="https://github.com/user-attachments/assets/6f933b3b-f189-4d9f-b291-027a66b007e5" alt="OpenSearch" width="18" height="18"> 
 - **[#16201](https://github.com/opensearch-project/OpenSearch/pull/16201)**: Fixed crash when disabling Auto Follow due to missing fields for task cancellation, including testing with Docker.
-- **[#16489](https://github.com/opensearch-project/OpenSearch/pull/16489)**: Add dynamic cache limit for Snapshot repository data, proportional to heap size with JVM Flag Control, designed to minimize impact on existing deployments.
+- **[#16489](https://github.com/opensearch-project/OpenSearch/pull/16489)**: Add a dynamic cache limit for Snapshot repository data, proportional to heap size, configurable through YAML settings, designed to minimize impact on existing deployments.
 - **[#16434](https://github.com/opensearch-project/OpenSearch/pull/16434)**: Fixed an issue causing CI failures related to Lucene’s total hits handling. Adjusted checks to account for whether the total hits count is exact or a lower bound.
 - **[#8390](https://github.com/opensearch-project/documentation-website/pull/8390)**: Updated documentation.
 
