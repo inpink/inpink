@@ -41,5 +41,5 @@
 ##### 3. Hanium Project (2022.02 - 2022.11)
 ##### 4. Find-Coding Private Educational Institute Instructor (2021.09 - 2023.02)
 ##### 5. [Inpink’s Development Blog](https://blog.naver.com/inpink_) (2021.07 - Ongoing)
-##### 6. Programming Mentor (University and Community), Korea Student Aid Foundation (2020.03 - 2021.08)
+##### 6. Programming Mentor (University and Community), Korea Student Aid Foundation (2019.09 - 2021.08)
 ##### 7. Bachelor's Degree in Software Engineering, Minor in Data Science, Kangnam University (2019.03 - 2024.02)
