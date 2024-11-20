@@ -36,7 +36,7 @@
 
 ## Activities
 
-##### 1. SW Maestro 15th (2024.04 - Ongoing)
+##### 1. SW Maestro 15th (2024.04 - 2024.11)
 ##### 2. Undergraduate Researcher (AI, [AR](https://koreascience.kr/article/CFKO202125036566393.pdf)) (2023.03 - 2024.02; 2021.02 - 2021.08)
 ##### 3. Hanium Project (2022.02 - 2022.11)
 ##### 4. Find-Coding Private Educational Institute Instructor (2021.09 - 2023.02)
