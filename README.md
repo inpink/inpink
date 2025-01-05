@@ -44,3 +44,11 @@
 ##### 5. [Inpink’s Development Blog](https://blog.naver.com/inpink_) (2021.07 - Ongoing)
 ##### 6. Programming Mentor (University and Community), Korea Student Aid Foundation (2019.09 - 2021.08)
 ##### 7. Bachelor's Degree in Software Engineering, Minor in Data Science, Kangnam University (2019.03 - 2024.02)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/inpink"
+  width="400"
+  height="300"
+/>
+</a>
