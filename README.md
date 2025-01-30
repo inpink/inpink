@@ -36,7 +36,7 @@
 
 ## Activities
 
-##### 1. NEXTERS 26th (2025.01 ~ )
+##### 1. NEXTERS 26th (2025.01 - 2025.02)
 ##### 1. SW Maestro 15th (2024.04 - 2024.11)
 ##### 2. Undergraduate Researcher ([AI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003139166), [AR](https://koreascience.kr/article/CFKO202125036566393.pdf)) (2023.03 - 2024.02; 2021.02 - 2021.08)
 ##### 3. Hanium Project (2022.02 - 2022.11)
