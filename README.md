@@ -45,10 +45,11 @@
 ##### 6. Programming Mentor (University and Community), Korea Student Aid Foundation (2019.09 - 2021.08)
 ##### 7. Bachelor's Degree in Software Engineering, Minor in Data Science, Kangnam University (2019.03 - 2024.02)
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/inpink"
-  width="400"
-  height="300"
-/>
-</a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/669894496962795336/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
