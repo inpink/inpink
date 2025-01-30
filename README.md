@@ -48,7 +48,7 @@
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/669894496962795336/draw"
-        width="600"
+        width="400"
         height="300"
         alt="gitanimals"
       />
